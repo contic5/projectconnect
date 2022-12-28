@@ -1,0 +1,9 @@
+body
+{
+  background-color: #FFCC00;
+}
+table,td
+{
+  background-color: #CC9933;
+  border: black solid 2px;
+}
